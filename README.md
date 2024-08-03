@@ -20,8 +20,9 @@ Video:
 [YouTube](https://youtu.be/i8Cnas7QrMc) - https://youtu.be/i8Cnas7QrMc
 
 
-- [Outline](#Outline)
+- [Table of contents](#Outline)
   * [Background](#background)
+  * [Dataset](#Dataset)
   * [Prerequisites](#prerequisites)
   * [Files in the repository](#files-in-the-repository)
   * [Quick start](#Quick-start)
@@ -31,6 +32,10 @@ Video:
 
 ## Background
 The idea of our approach is to combine the sequential and time-dependent nature of music data with the MambaVision architecture for enhanced music genre classification. We leverage spectrograms as input, which are then processed by the MambaVision model, a lightweight transformer-like architecture tailored for feature extraction and patching. By doing so, we achieve superior results compared to traditional transformers and CNNs, even those pre-trained on different data types. The MambaVision model's ability to effectively handle the unique characteristics of musical spectrograms, coupled with its efficient feature extraction and patching capabilities, leads to significant improvements in classification performance. For detailed insights and theoretical underpinnings, please refer to our complete work.
+
+
+## Dataset
+The <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">GTZAN</a> dataset was used. The data set consists of 1000 songs in length of 30[sec] divided to 10 classes
 
 
 ## Prerequisites
@@ -64,7 +69,10 @@ The idea of our approach is to combine the sequential and time-dependent nature 
 
 ## Quick start
 
-- Clone the repo
+- Clone the repo:
+```console
+git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
+```
 - Download the free GTZAN dataset form Kaggle: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">GTZAN</a>
 - Place the data in the main folder of the repo
 - Run the 'Build Dataset.ipynb' step by step for dataset creation
