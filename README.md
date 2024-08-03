@@ -20,7 +20,7 @@ Video:
 [YouTube](https://youtu.be/i8Cnas7QrMc) - https://youtu.be/i8Cnas7QrMc
 
 
-- [Table of contents](#Outline)
+- [Table of contents](#Table-of-contents)
   * [Background](#background)
   * [Dataset](#Dataset)
   * [Prerequisites](#prerequisites)
@@ -76,12 +76,12 @@ git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
 - Download the free GTZAN dataset form Kaggle: <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-genre-classification">GTZAN</a>
 - Place the data in the main folder of the repo
 - Run the 'Build Dataset.ipynb' step by step for dataset creation
-- Follow the 'train_models.ipynb' for training the different models (MambaVision classifer & CNN)
+- Follow the 'train_models.ipynb' for training the different models (MambaVision based, Transformer based & CNN)
 
 
 ## Analysing and testing
 
-- Analyze you training results with the 'data_analysis.ipynb' script
+- Analyze your trained models with the 'data_analysis.ipynb' script
 - Run the 'genre_predictor.py' scripy with you own music and classify it!
 
 ## References
