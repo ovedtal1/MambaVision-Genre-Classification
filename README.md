@@ -92,4 +92,5 @@ git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
 * Tri Dao, Albert Gu [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)
 * Mathilde Caron et al. [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
 * [Pytorch implementation and pre-trained wieght for MambaVision](https://github.com/NVlabs/MambaVision?tab=readme-ov-file) [NVIDIA Research]
+* [Self-Supervised Vision Transformers with DINO - pytorch](https://github.com/facebookresearch/dino?tab=readme-ov-file) [Facebook Research]
 * Yuval Hoffman, Roee Hadar [Music-Genre-Classification-using-Transformers project](https://github.com/YuvalHoffman/Music-Genre-Classification-using-Transformers)
