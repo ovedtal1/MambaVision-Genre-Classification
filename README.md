@@ -66,7 +66,7 @@ The <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-
 |`Build Dataset.ipynb`| notebook for step by step data prepearing|
 |`data_loader.py`| data loading script|
 |`music_dealer.py`| your own data loading script|
-|`utils.py`| utils for data use|
+|`util.py`| utils for data use|
 
 
 ## Quick start
