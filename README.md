@@ -90,6 +90,6 @@ git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
 * Ali Hatamizadeh, Jan Kautz [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](https://arxiv.org/abs/2407.08083)
 * Lianghui Zhu et al. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://arxiv.org/abs/2401.09417)
 * Tri Dao, Albert Gu [Transformers are SSMs: Generalized Models and Efficient Algorithms Through Structured State Space Duality](https://arxiv.org/abs/2405.21060)
-* Mathilde Caron et al. [Emerging Properties in Self-Supervised Vision Transformers]([https://arxiv.org/abs/2405.21060](https://arxiv.org/abs/2104.14294))
+* Mathilde Caron et al. [Emerging Properties in Self-Supervised Vision Transformers](https://arxiv.org/abs/2104.14294)
 * [Pytorch implementation and pre-trained wieght for MambaVision](https://github.com/NVlabs/MambaVision?tab=readme-ov-file) [NVIDIA Research]
 * Yuval Hoffman, Roee Hadar [Music-Genre-Classification-using-Transformers project](https://github.com/YuvalHoffman/Music-Genre-Classification-using-Transformers)
