@@ -65,6 +65,8 @@ The <a href="https://www.kaggle.com/datasets/andradaolteanu/gtzan-dataset-music-
 |`train.py`|  helper script for training the different models|
 |`Build Dataset.ipynb`| notebook for step by step data prepearing|
 |`data_loader.py`| data loading script|
+|`music_dealer.py`| your own data loading script|
+|`utils.py`| utils for data use|
 
 
 ## Quick start
@@ -82,7 +84,7 @@ git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
 ## Analysing and testing
 
 - Analyze your trained models with the 'data_analysis.ipynb' script
-- Run the 'genre_predictor.py' scripy with you own music and classify it!
+- Run the 'genre_predictor.ipynb' scripy with you own music and classify it!
 
 ## References
 * Ali Hatamizadeh, Jan Kautz [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](https://arxiv.org/abs/2407.08083)
