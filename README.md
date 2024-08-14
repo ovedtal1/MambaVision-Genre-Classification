@@ -14,11 +14,10 @@ PyTorch implementation of music genre classification using MambaVision architect
     <a href="https://il.linkedin.com/in/tal-oved-75b46b242">Linkedin</a> •
     <a href="https://il.linkedin.com/in/deanefraim?original_referer=https%3A%2F%2Fwww.google.com%2F">Linkedin</a>
   </p>
-
+<p align="center">
 Video:
-
-[YouTube](https://www.youtube.com/watch?v=A9I_awoJk64) 
-
+  <a href="https://www.youtube.com/watch?v=A9I_awoJk64">YouTube</a>
+</p>
 
 - [Table of contents](#Table-of-contents)
   * [Background](#background)
