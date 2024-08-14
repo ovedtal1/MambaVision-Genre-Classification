@@ -27,6 +27,7 @@ Video:
   * [Files in the repository](#files-in-the-repository)
   * [Quick start](#Quick-start)
   * [Analysing and testing](#Analysing-and-testing)
+  * [Future Work](#Future-Work)
   * [References](#references)
 
 
@@ -85,6 +86,11 @@ git clone https://github.com/ovedtal1/MambaVision-Genre-Classification.git
 
 - Analyze your trained models with the 'data_analysis.ipynb' script
 - Run the 'genre_predictor.ipynb' scripy with you own music and classify it!
+
+## Future Work
+- Compare the MambaVision with more architectures
+- Search for more custom augmentations
+- Test the MambaVision architecture on different tasks
 
 ## References
 * Ali Hatamizadeh, Jan Kautz [MambaVision: A Hybrid Mamba-Transformer Vision Backbone](https://arxiv.org/abs/2407.08083)
