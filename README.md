@@ -17,7 +17,7 @@ PyTorch implementation of music genre classification using MambaVision architect
 
 Video:
 
-[YouTube](https://youtu.be/i8Cnas7QrMc) - https://youtu.be/i8Cnas7QrMc
+[YouTube](https://www.youtube.com/watch?v=A9I_awoJk64) 
 
 
 - [Table of contents](#Table-of-contents)
